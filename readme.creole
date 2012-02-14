@@ -1,0 +1,14 @@
+= Croogo Plugins Directory
+
+The {{{repositories.json}}} file contains a list of Croogo plugin
+repositories.
+
+If you have a GitHub repository that contains a Croogo Plugin, and wish
+for other Croogo users to easily discover your plugin then please do
+the following:
+
+# Fork this repository
+# Add your repository and commit
+# Send me a pull request
+
+You can also email me your repository URLs via darren.m@firecreekweb.com
