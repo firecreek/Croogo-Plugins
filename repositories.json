@@ -1,8 +1,8 @@
 {
 	"schema-version": "1.0",
 	"repositories": [
-		{ url:"https://github.com/firecreek/PasswordProtect" },
-		{ url:"https://github.com/firecreek/BlockAnywhere" },
-		{ url:"https://github.com/firecreek/Sitemap" }
+		{ "url":"https://github.com/firecreek/PasswordProtect" },
+		{ "url":"https://github.com/firecreek/BlockAnywhere" },
+		{ "url":"https://github.com/firecreek/Sitemap" }
 	]
 }
