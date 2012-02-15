@@ -33,6 +33,8 @@
 		{ "url":"http://github.com/elcuro/texy" },
 		{ "url":"http://scvgeo.com/blog/typed-tags-croogo-plugin" },
 		{ "url":"http://github.com/chroposnos/video_widget" },
-		{ "url":"https://github.com/rchavik/switcher" }
+		{ "url":"https://github.com/rchavik/switcher" },
+		{ "url":"https://github.com/rchavik/megamenu" },
+		{ "url":"https://github.com/rchavik/simple_captcha" }
 	]
 }
