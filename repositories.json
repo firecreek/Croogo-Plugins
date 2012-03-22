@@ -1,6 +1,7 @@
 {
 	"schema-version": "1.0",
 	"repositories": [
+		{ "url":"http://github.com/marksweep/crumbs" },
 		{ "url":"http://github.com/marksweep/revisions" },
 		{ "url":"http://github.com/firecreek/PasswordProtect" },
 		{ "url":"http://github.com/firecreek/BlockAnywhere" },
