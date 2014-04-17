@@ -1,6 +1,7 @@
 {
 	"schema-version": "1.0",
 	"repositories": [
+		{ "url":"https://github.com/mohammadsaleh/AparnicTemplates" },
 		{ "url":"http://github.com/marksweep/crumbs" },
 		{ "url":"http://github.com/marksweep/revisions" },
 		{ "url":"http://github.com/firecreek/PasswordProtect" },
